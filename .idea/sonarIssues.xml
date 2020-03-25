@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../api-admin/src/main/java/com/souche/apisixadmin/entity/ProxyDomainShip.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../api-admin/src/main/java/com/souche/apisixadmin/service/HongmaoService.java">
           <value>
             <set />
@@ -38,12 +43,52 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../api-admin/src/main/java/com/souche/apisixadmin/service/impl/ProxyDomainShipServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../api-admin/src/main/resources/application-dev.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../api-admin/src/main/resources/application.properties">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../api-admin/src/test/java/com/souche/apisixadmin/ApisixRouteTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml">
           <value>
             <set />
           </value>
@@ -54,6 +99,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8081.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java">
           <value>
             <set />
           </value>
