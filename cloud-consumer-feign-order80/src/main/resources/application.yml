@@ -1,0 +1,30 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-order
+
+eureka:
+  client:
+    # 表示是否将自己注册进EurkaServer 默认是true
+    register-with-eureka: true
+    # 是否从EurekaServer抓取已有的注册信息，默认是true，单节点无所谓，集群必须设置为true才能配合ribbon使用负载均衡
+    fetch-registry: true
+    service-url:
+#       defaultZone: http://localhost:7001/eureka
+      defaultZone: http://eureka7001.com:7001/eureka,http://eureka7002.com:7002/eureka
+  instance:
+    instance-id: order80
+    prefer-ip-address: true
+
+# 设置 feign 客户端超时时间 默认支持ribbon
+ribbon:
+  # 建立连接所有时间
+  ReadTimeout: 5000
+  # 建立连接后所用时间
+  ConnectTimeout: 5000
+
+logging:
+  level:
+    com.atguigu.springcloud.service.PaymentFeignService: debug

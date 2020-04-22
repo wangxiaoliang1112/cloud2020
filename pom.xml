@@ -12,7 +12,35 @@
 
   <modules>
     <module>cloud-provider-payment8001</module>
-      <module>cloud-consumer-order80</module>
+    <module>cloud-consumer-order80</module>
+    <module>cloud-api-common</module>
+    <module>cloud-eureka-server7001</module>
+    <module>cloud-erureka-server7002</module>
+    <module>cloud-provider-payment8002</module>
+    <module>cloud-provider-payment8003</module>
+    <module>cloud-consumerZK-order80</module>
+    <module>cloud-provider-consul-payment8006</module>
+    <module>cloud-consumer-consul-order80</module>
+    <module>cloud-consumer-feign-order80</module>
+    <module>cloud-provider-hystrix-payment8001</module>
+    <module>cloud-consumer-feign-hystrix-order80</module>
+    <module>cloud-config-center3344</module>
+    <module>cloud-gateway-gateway9527</module>
+    <module>cloud-config-client-3355</module>
+    <module>cloud-config-client-3366</module>
+    <module>cloud-stream-rabbitmq-provider8801</module>
+    <module>cloud-stream-rabbitmq-consumer8802</module>
+    <module>cloudalibaba-config-nacos-client3377</module>
+    <module>cloudalibaba-provider-payment9001</module>
+    <module>cloudalibaba-provider-payment9002</module>
+    <module>cloudalibaba-provider-payment9003</module>
+    <module>cloudalibaba-provider-payment9004</module>
+    <module>cloudalibaba-consumer-nacos-order83</module>
+    <module>cloudalibaba-consumer-nacos-order84</module>
+    <module>cloudalibaba-sentinel-service8401</module>
+    <module>seata-order-service2001</module>
+    <module>seata-account-service2003</module>
+    <module>seata-storage-service2002</module>
   </modules>
 
   <properties>
@@ -115,7 +143,7 @@
           <!--<artifactId>maven-clean-plugin</artifactId>-->
           <!--<version>3.1.0</version>-->
         <!--</plugin>-->
-        <!--<plugin>-->
+        <!--<pl1ugin>-->
           <!--<artifactId>maven-site-plugin</artifactId>-->
           <!--<version>3.7.1</version>-->
         <!--</plugin>-->

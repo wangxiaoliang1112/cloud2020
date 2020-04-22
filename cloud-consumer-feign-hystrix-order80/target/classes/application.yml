@@ -1,0 +1,18 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: cloud-consumer-feign-hystrix-order
+
+eureka:
+  client:
+    # 表示是否将自己注册进EurkaServer 默认是true
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+
+# 在feign中开启hystrix  服务降级
+feign:
+  hystrix:
+    enabled: true
