@@ -32,14 +32,12 @@ public class FlowLimitController {
     @RequestMapping("/test3")
     public String test3() {
         int i= 10/0;
-//        sentinelService.getTest();
         return "----- test3";
     }
     @RequestMapping("/testHotKey")
     @SentinelResource(value = "testHotKey",blockHandler = "deal_testHotKey")
     public String test4(@RequestParam(value = "p1",required = false) String p1,
                         @RequestParam(value = "p2",required = false) String p2) {
-//        sentinelService.getTest();
         return "----- testHotKey";
     }
 

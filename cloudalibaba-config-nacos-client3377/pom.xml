@@ -14,10 +14,10 @@
 
     <dependencies>
         <!--nacos-config-->
-        <!--<dependency>-->
-            <!--<groupId>com.alibaba.cloud</groupId>-->
-            <!--<artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>-->
-        <!--</dependency>-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+        </dependency>
         <!--nacos-discovery-->
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
