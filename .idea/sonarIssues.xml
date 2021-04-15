@@ -273,6 +273,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-auth-server/src/main/java/com/atguigu/gulimall/auth/config/SeckillSentinelConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-auth-server/src/main/java/com/atguigu/gulimall/auth/contorller/LoginController.java">
           <value>
             <set />
@@ -588,6 +593,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-coupon/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-coupon/src/main/resources/application.yml">
           <value>
             <set />
@@ -604,6 +614,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-gateway/src/main/java/com/atguigu/gulimall/gateway/config/GulimallCorsConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-gateway/src/main/java/com/atguigu/gulimall/gateway/config/SentinelGatewayConfig.java">
           <value>
             <set />
           </value>
@@ -1198,6 +1213,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-product/src/main/java/com/atguigu/gulimall/product/fallback/SeckillFeignServiceFallBack.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-product/src/main/java/com/atguigu/gulimall/product/fegin/CouponFeignService.java">
           <value>
             <set />
@@ -1653,6 +1673,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-seckill/src/main/java/com/atguigu/gulimall/seckill/config/SeckillSentinel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-seckill/src/main/java/com/atguigu/gulimall/seckill/config/SeckillSentinelConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-seckill/src/main/java/com/atguigu/gulimall/seckill/config/SeckillWebConfig.java">
           <value>
             <set />
@@ -1824,6 +1854,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/gulimall-third-party/src/main/java/com/atguigu/gulimall/thirdparty/utils/HttpUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../gulimall/gulimall-third-party/src/main/resources/application.properties">
           <value>
             <set />
           </value>
@@ -2049,6 +2084,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../gulimall/renren-generator/src/test/java/io/renren/RenrenApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../lagou/spring-framework-5.1.x/spring-lagou/src/main/resources/applicationContext.xml">
           <value>
             <set />
           </value>
@@ -2983,12 +3023,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/control/About_DBController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/control/ApplicationController.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/control/DoMainRecordsController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/control/EcsController.java">
           <value>
             <set />
           </value>
@@ -3074,6 +3124,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/dao/ApplicationMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/dao/DB_NodeMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/dao/EcsMapper.java">
           <value>
             <set />
           </value>
@@ -3178,12 +3238,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/AppAssociation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/Application.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/DB_Base.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/DB_Node.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/Ecs.java">
           <value>
             <set />
           </value>
@@ -3198,7 +3273,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/Resource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/Sum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/entity/Zone.java">
           <value>
             <set />
           </value>
@@ -3348,6 +3433,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/service/impl/SslServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/service/impl/SzoneServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/service/impl/UserAppServiceImpl.java">
           <value>
             <set />
@@ -3358,12 +3453,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/service/impl/VpcServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/unit/LanJingResourceInsertAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/vo/AboutOtherResourceEntity.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/vo/AboutOtherResourceEntityVO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/java/com/souche/hongmao/vo/ApplicationVO.java">
           <value>
             <set />
           </value>
@@ -3408,6 +3518,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/resources/mapper/DB_NodeMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/resources/mapper/EcsMapper.xml">
           <value>
             <set />
@@ -3438,7 +3553,117 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/main/resources/mapper/SzoneMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao/src/test/java/com/souche/hongmao/TestNonBlockingNIO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/HongmaoApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/controller/ApplicationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/controller/BindController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/dao/ApplicationDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/entity/BindEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/service/BindUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/service/impl/ApplicationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/utils/Constant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/java/com/souche/hongmao/xss/SQLFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/resources/mapper/hongmao/BindDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/hongmao_cmdb/src/main/resources/mapper/hongmao/SslDao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/small-room/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/small-room/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/small-room/src/main/resources/application-prod.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/hongmao/small-room/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/lagou/IPTest/src/main/java/com/lagou/edu/utils/DruidUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../wangxiaoliang/lagou/IPTest/src/main/java/com/lagou/test/PrintNumber.java">
           <value>
             <set />
           </value>
@@ -3464,6 +3689,106 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../wangxiaoliang/lagou/IPersistence_test/src/main/resources/sqlMapConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/hongmao02/src/main/java/com/souche/hongmao02/service/impl/ResumeServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/hongmao02/src/test/java/com/souche/hongmao02/Hongmao02ApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/lagou-netty-consumer/src/main/java/com/souche/demo/PrintNumber.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/main/java/com/atguigu/redis01/config/RdisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/main/java/com/atguigu/redis01/controller/RedisController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/test/java/com/atguigu/redis01/LRUCache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/test/java/com/atguigu/redis01/LRUCahceDemo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis01/src/test/java/com/atguigu/redis01/LRUCahceDemo2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/src/main/java/com/atguigu/redis01/Redis01Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/src/main/java/com/atguigu/redis01/Redis02Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/src/main/java/com/atguigu/redis01/config/RdisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/redis02/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/rpc-demo/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/rpc-demo/src/main/java/com/lagou/spi/Demo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/spring-boot/src/test/java/com/lagou/demo/DemoApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/lagou/lagou-spring-mvc/zk/src/main/java/com/lagou/CreateSession.java">
           <value>
             <set />
           </value>
@@ -3523,7 +3848,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../work/vue-system/src/components/page/Network.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../work/vue-system/src/components/page/NotBind.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/vue-system/src/components/page/Other.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/vue-system/src/components/page/Physical.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../work/vue-system/src/components/page/Tag.vue">
           <value>
             <set />
           </value>
